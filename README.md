@@ -83,7 +83,7 @@ We welcome contributions to improve this project! Feel free to:
 
 Meta-Llama for providing the powerful model used for toxicity classification.
 
-Streamlit for enabling the creation of a smooth and interactive user interface.
+Streamlit is used to enable the creation of a smooth and interactive user interface.
 
 FAISS for efficient vector search capabilities.
 
@@ -91,15 +91,12 @@ FAISS for efficient vector search capabilities.
 
 ## 🚨 Disclaimer
 
-This system aims to provide a high-level toxicity detection and classification. However, it may not catch every nuance of online conversations, and its results should be reviewed accordingly.
+This system aims to provide high-level toxicity detection and classification. However, it may not catch every nuance of online conversations, and its results should be reviewed accordingly.
 
 
 ---
 
 Thank you for exploring the Toxic Comment Detection & Classification project! 🎉
-
-This code can be directly used in your **README.md** file in your GitHub repository. It includes all the relevant sections like installation, usage, features, and more.
-
 
 
   
